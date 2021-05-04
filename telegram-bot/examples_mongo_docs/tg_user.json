@@ -1,0 +1,17 @@
+{
+    "_id" : ObjectId("608700f99212713321da5035"),
+    "Username" : "CarrotFox",
+    "devices" : [
+        {
+            "type" : "immersion",
+            "name" : "sweet box",
+            "id" : 2027925481
+        },
+        {
+            "type" : "immersion",
+            "name" : "hard_box",
+            "id" : 1729243175
+        }
+    ],
+    "Chat_id" : 73123455
+}
